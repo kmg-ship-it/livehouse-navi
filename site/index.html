@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ライブハウス撮影ナビ｜地下アイドル・撮影会・コスプレのレンズ選び</title>
+<meta name="description" content="ライブハウスの地下アイドル撮影、撮影会、コスプレ撮影に必要な焦点距離を距離と構図から計算。Sony・Canon・Nikon・FUJIFILM・マイクロフォーサーズのおすすめレンズと最新価格を比較できます。">
+<link rel="canonical" href="{{SITE_URL}}/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="ライブハウス撮影ナビ">
+<meta property="og:description" content="距離と構図を選ぶだけで、ライブ・撮影会・コスプレに必要な焦点距離とおすすめレンズがわかる。">
+<meta property="og:url" content="{{SITE_URL}}/">
+<meta property="og:image" content="{{SITE_URL}}/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#120f1f">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=IBM+Plex+Mono:wght@500;600&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"ライブハウス撮影ナビ","url":"{{SITE_URL}}/","applicationCategory":"PhotographyApplication","operatingSystem":"Web","inLanguage":"ja","offers":{"@type":"Offer","price":"0","priceCurrency":"JPY"}}
+</script>
+</head>
+<body>
+<header class="stage">
+  <div class="wrap">
+    <span class="pr">PR｜このページはアフィリエイトリンクを含みます</span>
+    <h1>ライブハウス撮影ナビ</h1>
+    <p class="lede">地下アイドルのライブ、撮影会、コスプレ撮影向けの機材選びツールです。被写体までの距離と撮りたい構図を選ぶと、必要な焦点距離と、手持ちのカメラに合うおすすめレンズを計算します。カメラが決まっていない人は、メーカーをまたいで比較できます。</p>
+    <div class="mounts"><span>Sony E</span><span>Canon RF</span><span>Nikon Z</span><span>FUJIFILM X</span><span>Micro Four Thirds</span></div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <form class="controls" id="form" autocomplete="off">
+      <fieldset>
+        <label class="label" for="system">使っているカメラ</label>
+        <select id="system">
+          <option value="all" selected>まだ決めていない（全メーカー比較）</option>
+          <optgroup label="Sony">
+            <option value="sony-ff">Sony α フルサイズ</option>
+            <option value="sony-apsc">Sony α APS-C</option>
+          </optgroup>
+          <optgroup label="Canon">
+            <option value="canon-ff">Canon EOS R フルサイズ</option>
+            <option value="canon-apsc">Canon EOS R APS-C</option>
+          </optgroup>
+          <optgroup label="Nikon">
+            <option value="nikon-ff">Nikon Z フルサイズ</option>
+            <option value="nikon-dx">Nikon Z DX（APS-C）</option>
+          </optgroup>
+          <optgroup label="FUJIFILM">
+            <option value="fuji">FUJIFILM X</option>
+          </optgroup>
+          <optgroup label="OM SYSTEM / Panasonic">
+            <option value="mft">マイクロフォーサーズ</option>
+          </optgroup>
+        </select>
+      </fieldset>
+
+      <fieldset>
+        <legend>撮影シーン</legend>
+        <div class="seg scene">
+          <input type="radio" name="scene" id="sc-live" value="live" checked><label for="sc-live">ライブハウス</label>
+          <input type="radio" name="scene" id="sc-session" value="session"><label for="sc-session">撮影会</label>
+          <input type="radio" name="scene" id="sc-cos" value="cos"><label for="sc-cos">コスプレ</label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <div class="dist-row"><span class="label" id="dist-label">被写体までの距離</span><span class="dist-val" id="dist-out">3.0 m</span></div>
+        <input type="range" id="dist" min="1" max="20" step="0.5" value="3" aria-labelledby="dist-label">
+        <div class="chips" id="presets"></div>
+      </fieldset>
+
+      <fieldset>
+        <legend>撮りたい構図</legend>
+        <div class="seg">
+          <input type="radio" name="frame" id="fr-face" value="face"><label for="fr-face">顔アップ</label>
+          <input type="radio" name="frame" id="fr-bust" value="bust" checked><label for="fr-bust">バストアップ</label>
+          <input type="radio" name="frame" id="fr-knee" value="knee"><label for="fr-knee">膝上</label>
+          <input type="radio" name="frame" id="fr-full" value="full"><label for="fr-full">全身</label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>カメラの向き</legend>
+        <div class="seg">
+          <input type="radio" name="orient" id="or-v" value="v" checked><label for="or-v">縦位置</label>
+          <input type="radio" name="orient" id="or-h" value="h"><label for="or-h">横位置</label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>予算（レンズ1本）</legend>
+        <div class="seg">
+          <input type="radio" name="budget" id="bu-all" value="all" checked><label for="bu-all">指定なし</label>
+          <input type="radio" name="budget" id="bu-low" value="low"><label for="bu-low">〜5万円</label>
+          <input type="radio" name="budget" id="bu-mid" value="mid"><label for="bu-mid">〜12万円</label>
+        </div>
+        <p class="hint">価格帯は目安です。最新価格はリンク先で確認してください。</p>
+      </fieldset>
+    </form>
+
+    <div class="results">
+      <section class="panel" aria-live="polite">
+        <div class="answer">
+          <div class="big" id="focal">0<small>mm</small></div>
+          <div class="answer-meta">
+            <span class="basis" id="basis"></span>
+            <span class="eq" id="equiv"></span>
+            <span class="sub" id="summary"></span>
+          </div>
+        </div>
+        <div class="scale" id="scale"></div>
+      </section>
+
+      <section class="panel">
+        <h2 id="set-title">設定の目安</h2>
+        <div class="settings" id="settings"></div>
+        <ul class="tips" id="tips"></ul>
+        <div class="dof-wrap"><table class="dof" id="dof"></table></div>
+      </section>
+
+      <section>
+        <div class="lens-head"><h2>おすすめレンズ</h2><span class="count" id="count"></span></div>
+        <div class="lenses" id="lenses"></div>
+        <button type="button" class="more" id="more" hidden>すべて表示</button>
+      </section>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <h3>撮影マナー</h3>
+    <ul>
+      <li>撮影可否、フラッシュ、連写音、機材サイズのルールは公演や撮影会ごとに違います。必ず主催者の案内を確認してください。</li>
+      <li>SNSやブログに載せるときは、運営とご本人の掲載ルールに従ってください。</li>
+      <li>ライブハウスでは大きな機材や頭上に掲げる撮影が周りの視界を遮ります。周りのお客さんへの配慮を忘れずに。</li>
+    </ul>
+    <h3>このページについて</h3>
+    <p style="margin:0">焦点距離はフルサイズ（36×24mm）を基準に、APS-Cは1.5倍（Canonは1.6倍）、マイクロフォーサーズは2倍で換算しています。全メーカー比較では、レンズの暗所での強さを「F値×換算倍率」で比べています。価格は楽天市場の新品の最安値を毎日自動で取得したもので、<span id="price-updated">取得日時は各レンズに表示しています</span>。最新の価格・在庫は販売ページで確認してください。</p>
+    <nav class="page-links"><a href="about.html">運営者情報</a><a href="privacy.html">プライバシーポリシー・広告について</a></nav>
+  </div>
+</footer>
+<script src="assets/app.js" defer></script>
+</body>
+</html>
