@@ -1,0 +1,72 @@
+name: 価格更新とサイト公開
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 20 * * *" # 毎日 日本時間 5:23
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: テスト
+        run: npm test
+
+      - name: 楽天から価格を取得
+        if: ${{ github.event_name != 'push' }}
+        continue-on-error: true # 失敗しても前回の価格のまま公開する
+        env:
+          RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
+          RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+          RAKUTEN_SITE_URL: ${{ vars.SITE_URL }}
+        run: npm run prices
+
+      - name: 価格データを保存
+        if: ${{ github.event_name != 'push' }}
+        run: |
+          if ! git diff --quiet -- site/data/prices.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add site/data/prices.json
+            git commit -m "価格を更新 $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: ビルド
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
