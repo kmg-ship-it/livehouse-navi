@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+// GitHubのSecretsに紛れ込んだ前後の空白・改行を取り除く
+for (const k of ["RAKUTEN_APP_ID", "RAKUTEN_ACCESS_KEY", "RAKUTEN_AFFILIATE_ID", "RAKUTEN_SITE_URL"]) if (process.env[k]) process.env[k] = process.env[k].trim();
+// 診断用：キーの中身は出さず、形式と長さだけ表示する
+if (process.env.RAKUTEN_APP_ID) console.log("[診断] APP_ID:", /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(process.env.RAKUTEN_APP_ID) ? "UUID形式OK" : "UUID形式ではない", "長さ", process.env.RAKUTEN_APP_ID.length, "/ ACCESS_KEY:", (process.env.RAKUTEN_ACCESS_KEY || "").startsWith("pk_") ? "pk_で始まる" : "pk_で始まらない", "長さ", (process.env.RAKUTEN_ACCESS_KEY || "").length, "/ AFFILIATE_ID 長さ", (process.env.RAKUTEN_AFFILIATE_ID || "").length);
 // 楽天市場 商品検索API（2026年の新API）で各レンズの最安価格とアフィリエイトURLを取得し、
 // site/data/prices.json に書き出す。依存パッケージなし（Node.js 20以上）。
 //
