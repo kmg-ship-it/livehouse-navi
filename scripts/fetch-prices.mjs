@@ -47,7 +47,8 @@ export async function search(keyword, { fetchImpl = fetch } = {}) {
     accessKey: env.RAKUTEN_ACCESS_KEY,
     format: "json",
     formatVersion: "2",
-    keyword,
+    // 楽天APIは1文字だけの単語（LやSなど）を含むキーワードを拒否するので除く
+    keyword: keyword.split(/\s+/).filter((w) => [...w].length >= 2).join(" "),
     NGKeyword: "中古 ジャンク レンタル フード キャップ",
     hits: "30",
     sort: "standard",
