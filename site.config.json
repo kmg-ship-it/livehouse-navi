@@ -1,7 +1,7 @@
 {
-  "siteUrl": "https://example.com",
+  "siteUrl": "https://kmg-ship-it.github.io/livehouse-navi",
   "customDomain": "",
-  "operatorName": "（運営者名・ハンドルネーム）",
-  "operatorProfile": "地下アイドルのライブや撮影会を富士フイルムのカメラで撮っています。",
-  "contact": "（お問い合わせ先：XのアカウントやGoogleフォームのURLなど）"
+  "operatorName": "KMG",
+  "operatorProfile": "地下アイドルのライブや撮影会、コスプレ撮影を富士フイルムのカメラで撮っています。",
+  "contact": "ご意見・ご質問・掲載内容の誤りのご連絡は、<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeuipCKGwnM2tMgodp4L7yr3yndZnZdBkdkG1Iha1SgcMKtgA/viewform\" target=\"_blank\" rel=\"noopener\">お問い合わせフォーム</a>からお送りください。"
 }
