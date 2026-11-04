@@ -1,5 +1,312 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-11-04T18:28:43.872Z",
   "source": "楽天市場",
-  "items": {}
+  "items": {
+    "sony-fe85f18": {
+      "price": 60984,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00pm32o.qfougcde.g00pm32o.qfouhcc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletplaza%2F40000739583%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutletplaza%2Fi%2F11118976%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "Outlet Plaza",
+      "title": "SONY FE 85mm F1.8 SEL85F18 デジタル一眼カメラα[Eマウント]用レンズ 大口径中望遠単焦点レンズ ソニー",
+      "matched": 30,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:25.901Z"
+    },
+    "sony-fe85f14gm2": {
+      "price": 242800,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00pnyso.qfougf2f.g00pnyso.qfouh172/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftopcamera%2F4548736156760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftopcamera%2Fi%2F10379653%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "トップカメラ 楽天市場店",
+      "title": "【新品】SONY (ソニー)　FE 85mm F1.4 GM II [SEL85F14GM2]",
+      "matched": 30,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:27.363Z"
+    },
+    "sony-fe135f18gm": {
+      "price": 230511,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00tf5po.qfoug3a2.g00tf5po.qfouh151/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-style-ra%2F20240103152602_67%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-style-ra%2Fi%2F10031588%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "セレクトショップ RST",
+      "title": "ソニー / 望遠単焦点レンズ / フルサイズ / FE 135mm F1.8 GM / G Master / デジタル一眼カメラα[Eマウント]用 純正レンズ / SEL135F18GM",
+      "matched": 30,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:28.779Z"
+    },
+    "sony-fe50150f2gm": {
+      "price": 517800,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00teeeo.qfougd5f.g00teeeo.qfouh939/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsydenki%2F4548736169753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsydenki%2Fi%2F10008461%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "SYデンキ",
+      "title": "FE 50-150mm F2 GM SEL50150GM ソニー 交換レンズ",
+      "matched": 30,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:30.265Z"
+    },
+    "sony-fe70200gm2": {
+      "price": 320800,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0bro.qfoug21c.g00s0bro.qfouh65d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwinkstore%2F243164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwinkstore%2Fi%2F10034253%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "ウインクデジタル 楽天市場店",
+      "title": "SONY　レンズ　FE 70-200mm F2.8 GM OSS II SEL70200GM2",
+      "matched": 28,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:31.912Z"
+    },
+    "sony-fe2470gm2": {
+      "price": 270780,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00px5so.qfoug2b9.g00px5so.qfouh03a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnabeden%2F10001126%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnabeden%2Fi%2F10001126%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "家電ライダー",
+      "title": "【新品】SONY(ソニー) SEL2470GM2 ミラーレス一眼カメラ用 G MASTER 大口径・標準ズームレンズ FE 24-70mm F2.8 GM II SEL2470GM2",
+      "matched": 30,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:33.873Z"
+    },
+    "sony-fe50f18": {
+      "price": 33878,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00q3omo.qfoug76a.g00q3omo.qfouh381/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femedama%2F4548736033078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femedama%2Fi%2F10080207%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラのキタムラ",
+      "title": "ソニー FE 50mm F1.8 [SEL50F18F] SONY Eマウント フルサイズ 単焦点レンズ 標準 ポートレート 小型 軽量",
+      "matched": 30,
+      "tier": "low",
+      "checkedAt": "2026-11-04T18:27:35.311Z"
+    },
+    "sigma-85f14dgdn-e": {
+      "price": 102202,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00q3omo.qfoug76a.g00q3omo.qfouh381/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femedama%2F0085126322656%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femedama%2Fi%2F10563361%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラのキタムラ",
+      "title": "シグマ 85mm F1.4 DG DN Art ソニーE用 SIGMA 中望遠 単焦点レンズ フルサイズ 大口径 ポートレート ボケ",
+      "matched": 13,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:36.712Z"
+    },
+    "samyang-af75f18-fe": {
+      "price": 37765,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00q63lo.qfoug9ae.g00q63lo.qfouh450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenko-k%2Fno-8809298886318%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenko-k%2Fi%2F10031713%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "ケンコー・トキナー 楽天市場店",
+      "title": "【アウトレット(新古品)[店舗保証3ヵ月]】【即配】(KT) SAMYANG サムヤン 交換レンズ AF 75mm F1.8 FE 電子接点付【送料無料】【キャンペーン対象外】＼お得な店内クーポン配布中／",
+      "matched": 7,
+      "tier": "low",
+      "checkedAt": "2026-11-04T18:27:38.089Z"
+    },
+    "tamron-35150-e": {
+      "price": 176700,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00tt04o.qfoug2ba.g00tt04o.qfouh209/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsharanoki%2F19031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsharanoki%2Fi%2F10000384%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "沙羅の木楽天市場店",
+      "title": "35-150mm F/2-2.8 Di III VXD (Model A058) [ソニーE用]",
+      "matched": 21,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:39.514Z"
+    },
+    "tamron-2875g2-e": {
+      "price": 99780,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00swwjo.qfoug363.g00swwjo.qfouhcba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fg-mach%2Fs006796%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fg-mach%2Fi%2F10002614%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "G-Mach 楽天市場店",
+      "title": "新品 TAMRON 28-75mm F/2.8 Di III VXD G2 (Model A063) ソニーE用 タムロン",
+      "matched": 24,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:41.143Z"
+    },
+    "tamron-70180g2-e": {
+      "price": 138920,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r2e8o.qfoug57f.g00r2e8o.qfouhb37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffaith-mob%2F4960371006871%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffaith-mob%2Fi%2F10004571%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "オンラインショップフェイス",
+      "title": "タムロン 70-180mm F2.8 Di III VC VXD G2 (A065) ソニーE",
+      "matched": 29,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:42.579Z"
+    },
+    "sigma-56f14-e": {
+      "price": 61192,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00pm32o.qfougcde.g00pm32o.qfouhcc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletplaza%2F40000898056%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutletplaza%2Fi%2F11255888%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "Outlet Plaza",
+      "title": "SIGMA 56mm F1.4 DC DN ソニーE用 中望遠レンズ シグマ",
+      "matched": 29,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:43.976Z"
+    },
+    "sigma-30f14-e": {
+      "price": 49954,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r8zeo.qfoug5d8.g00r8zeo.qfouhcb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmituboshicamera%2F0085126302658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmituboshicamera%2Fi%2F10010614%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "三星カメラ楽天市場店",
+      "title": "10年間保証付き [シグマ]30mm F1.4 DC DN Contemporary ソニーEマウント用",
+      "matched": 7,
+      "tier": "low",
+      "checkedAt": "2026-11-04T18:27:45.405Z"
+    },
+    "sigma-1850-e": {
+      "price": 68190,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r2e8o.qfoug57f.g00r2e8o.qfouhb37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffaith-mob%2F10003291%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffaith-mob%2Fi%2F10003291%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "オンラインショップフェイス",
+      "title": "シグマ 18-50mm F2.8 DC DN Contemporary ソニーE",
+      "matched": 23,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:46.866Z"
+    },
+    "tamron-1770-e": {
+      "price": 79700,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r2e8o.qfoug57f.g00r2e8o.qfouhb37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffaith-mob%2F10003118%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffaith-mob%2Fi%2F10003118%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "オンラインショップフェイス",
+      "title": "タムロン 17-70mm F/2.8 Di III-A VC RXD ModelB070 ソニーE",
+      "matched": 23,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:48.305Z"
+    },
+    "viltrox-75f12-e": {
+      "price": 107100,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r54do.qfoug870.g00r54do.qfouh280/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-stkb%2Faf75-12-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-stkb%2Fi%2F10004899%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "焦点工房",
+      "title": "Viltrox AF 75mm F1.2 PRO STM ED IF（ ソニー Eマウント ニコン Zマウント 富士フイルム Xマウント ）フ APS-C 単焦点レンズ 国内正規品 メーカー1年保証 オートフォーカス 望遠 レンズ AF対応 大口径 交換レンズ 焦点工房",
+      "matched": 3,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:49.765Z"
+    },
+    "canon-rf85f2": {
+      "price": 123750,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00ufzno.qfougf4e.g00ufzno.qfouh1cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftales-store%2F202506232252464549292168068%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftales-store%2Fi%2F10057335%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "TalesStore 楽天市場店",
+      "title": "Canon 単焦点レンズ RF85mm F2 MACRO IS STM フルサイズ対応 RF852MISSTM",
+      "matched": 3,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:27:51.159Z"
+    },
+    "canon-rf50f18": {
+      "price": 25540,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00ruj6o.qfoug4e8.g00ruj6o.qfouh0b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwattmann%2F9311501011886%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwattmann%2Fi%2F10573723%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "ワットマン楽天市場店",
+      "title": "【全品ポイント10倍！要エントリー】【期間限定セール】キヤノン Canon フルサイズ対応RFマウント用単焦点レンズ RF 50mm F1.8 STM",
+      "matched": 28,
+      "tier": "low",
+      "checkedAt": "2026-11-04T18:27:57.817Z"
+    },
+    "canon-rf35f18": {
+      "price": 79969,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r2muo.qfougfd9.g00r2muo.qfouh56f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-worldichi%2F4549292115727%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-worldichi%2Fi%2F10024588%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "電子問屋ワールドいち",
+      "title": "【新品】CANON キャノン 交換レンズ RF35mm F1.8 マクロ IS STM",
+      "matched": 24,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:27:59.194Z"
+    },
+    "sigma-56f14-rf": {
+      "price": 60299,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00u3gvo.qfoug570.g00u3gvo.qfouhe18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnoah-shopping%2F0085126351724%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnoah-shopping%2Fi%2F10004023%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "ノア商社 楽天市場店",
+      "title": "【新品】SIGMA 56mm F1.4 DC DN [ キヤノンRF用 ]",
+      "matched": 21,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:00.611Z"
+    },
+    "sigma-1850-rf": {
+      "price": 66661,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00q632o.qfoug732.g00q632o.qfouh316/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fec-current%2F0085126585723%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fec-current%2Fi%2F12812150%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "ECカレント",
+      "title": "シグマ(SIGMA) 18-50mm F2.8 DC DN キヤノンRFマウント用 ズームレンズ",
+      "matched": 30,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:02.036Z"
+    },
+    "tamron-35150-z": {
+      "price": 199816,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00pasho.qfoug249.g00pasho.qfouh593/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitsuba%2Ftamron-a058%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitsuba%2Fi%2F10018451%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラのミツバ",
+      "title": "[3年保険付] タムロン 35-150mm F/2-2.8 Di III VXD Model A058S ソニーE／A058Z ニコンZマウントフルサイズミラーレス一眼カメラ対応F2-2.8大口径望遠ズームレンズ[02P05Nov16]",
+      "matched": 16,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:28:13.953Z"
+    },
+    "viltrox-75f12-z": {
+      "price": 107100,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r54do.qfoug870.g00r54do.qfouh280/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-stkb%2Faf75-12-pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-stkb%2Fi%2F10004899%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "焦点工房",
+      "title": "Viltrox AF 75mm F1.2 PRO STM ED IF（ ソニー Eマウント ニコン Zマウント 富士フイルム Xマウント ）フ APS-C 単焦点レンズ 国内正規品 メーカー1年保証 オートフォーカス 望遠 レンズ AF対応 大口径 交換レンズ 焦点工房",
+      "matched": 7,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:15.353Z"
+    },
+    "sigma-56f14-x": {
+      "price": 62942,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00q3omo.qfoug76a.g00q3omo.qfouh381/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femedama%2F0085126351755%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femedama%2Fi%2F10717075%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラのキタムラ",
+      "title": "シグマ 56mm F1.4 DC DN Contemporary フジフイルムX用 SIGMA 中望遠 単焦点レンズ APS-C 大口径 ボケ 《納期約2週間》",
+      "matched": 8,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:28.833Z"
+    },
+    "sigma-1850-x": {
+      "price": 65897,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00tdfzo.qfoug4d1.g00tdfzo.qfouh301/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdandystore%2F085126585754%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdandystore%2Fi%2F10003820%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "Dandyストア",
+      "title": "【新品】 シグマ 18-50mm F2.8 DC DN Contemporary フジフイルムX用 085126585754",
+      "matched": 17,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:30.228Z"
+    },
+    "tamron-1770-x": {
+      "price": 84013,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00s9ibo.qfoug613.g00s9ibo.qfouhda3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcamera-no-ohbayashi%2F4960371006802%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcamera-no-ohbayashi%2Fi%2F10002897%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラの大林楽天市場店",
+      "title": "[新品]TAMRON タムロン 17-70mm F/2.8 Di III-A VC RXD 富士フイルムXマウント用 (B070X)",
+      "matched": 4,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:31.642Z"
+    },
+    "viltrox-75f12-x": {
+      "price": 107100,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00u0qvo.qfoug0ad.g00u0qvo.qfouh38d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvitopal%2Fvil7512profujix%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvitopal%2Fi%2F10000646%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "vitopal",
+      "title": "VILTROX AF 75mm F1.2 Pro XF E Z 単焦点レンズ APS-C 大口径 オートフォーカス 富士フイルム X SONY E Nikon Zマウント対応 中望遠レンズ",
+      "matched": 4,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:33.000Z"
+    },
+    "om-45f12pro": {
+      "price": 124650,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00upo0o.qfoug254.g00upo0o.qfouh778/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseiyushop01%2Faz7ux5pwbeh74yd5llng3ygjzm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseiyushop01%2Fi%2F11683964%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "SEIYUショップ",
+      "title": "OM SYSTEM 単焦点レンズ M.ZUIKO DIGITAL ED 45mm F1.2 PRO ポートレート/動物/花植物",
+      "matched": 26,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:28:35.719Z"
+    },
+    "om-75f18": {
+      "price": 90780,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00rdkso.qfoug7be.g00rdkso.qfouh8f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdigimart-shop%2Fclf00123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdigimart-shop%2Fi%2F10002402%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラ・レンズ・家電のDigiMart",
+      "title": "【送料無料】オリンパス OLYMPUS M.ZUIKO DIGITAL ED 75mm F1.8 [ブラック] 単焦点望遠レンズ【新品・並行輸入品・保証付き】",
+      "matched": 16,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:37.148Z"
+    },
+    "om-40150f28pro": {
+      "price": 194340,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00upo0o.qfoug254.g00upo0o.qfouh778/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseiyushop01%2Fqf3gg2tusjbvfiuuaw56r7j3du%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseiyushop01%2Fi%2F10902930%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "SEIYUショップ",
+      "title": "M.ZUIKO DIGITAL ED 40-150mm F2.8 PRO",
+      "matched": 27,
+      "tier": "high",
+      "checkedAt": "2026-11-04T18:28:38.566Z"
+    },
+    "om-45f18": {
+      "price": 25540,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00ruj6o.qfoug4e8.g00ruj6o.qfouh0b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwattmann%2F9311501011701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwattmann%2Fi%2F10573593%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "ワットマン楽天市場店",
+      "title": "【全品ポイント10倍！要エントリー】【期間限定セール】オリンパス OLYMPUS レンズ M.ZUIKO DIGITAL 45mm f1.8",
+      "matched": 30,
+      "tier": "low",
+      "checkedAt": "2026-11-04T18:28:39.991Z"
+    },
+    "om-1240f28pro2": {
+      "price": 98000,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00pasho.qfoug249.g00pasho.qfouh593/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitsuba%2Folympus-mzuiko12-40pro2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitsuba%2Fi%2F10017483%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "カメラのミツバ",
+      "title": "[3年保険付]OLYMPUS M.ZUIKO DIGITAL ED12-40mm F2.8 PRO II [24mm-80mm F2.8 Macro相当大口径標準ズームレンズ] [02P05Nov16]",
+      "matched": 22,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:41.358Z"
+    },
+    "pana-25f14ii": {
+      "price": 74931,
+      "url": "https://hb.afl.rakuten.co.jp/hgc/g00r8zeo.qfoug5d8.g00r8zeo.qfouhcb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmituboshicamera%2F4550719429648%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmituboshicamera%2Fi%2F10016645%2F&rafcid=wsc_i_is_bbe2793c-4efe-49a3-b92a-98f6ad5980c1",
+      "shop": "三星カメラ楽天市場店",
+      "title": "【10年間保証付き】[PANASONIC]LEICA DG SUMMILUX 25mm/F1.4 II ASPH.（H-XA025A)",
+      "matched": 20,
+      "tier": "mid",
+      "checkedAt": "2026-11-04T18:28:42.773Z"
+    }
+  }
 }
