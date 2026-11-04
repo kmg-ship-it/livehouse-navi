@@ -1,0 +1,14 @@
+{
+  "name": "livehouse-navi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "地下アイドルのライブ・撮影会・コスプレ撮影向けレンズ選びツール",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "prices": "node scripts/fetch-prices.mjs",
+    "test": "node --test test/match.test.mjs",
+    "serve": "node scripts/build.mjs && npx --yes serve@14.2.4 dist"
+  }
+}
